@@ -4,7 +4,9 @@ export function Navbar() {
         <>
             <div className="navbar-box">
                 <div className="logo-box">
-                    <img src="imgs/logo-black.png" alt="Logo" />
+                    <a href="https://cozyapartments.lt/">
+                        <img src="imgs/logo-black.png" alt="Logo" />
+                    </a>
                 </div>
                 <div className="info-box">
                     <div className="icon-box">
