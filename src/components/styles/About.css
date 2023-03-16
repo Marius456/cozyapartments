@@ -1,0 +1,83 @@
+body {
+    font-family: roboto,sans-serif;
+    font-size: 15px;
+    color: #888;
+}
+.main{
+    width: 100%;
+    height: auto;
+    padding: 5% 10%;
+    display: flex;
+}
+.about-box{
+    width: 40%;
+    height: auto;
+}
+.subtitle{
+    font-size: 15px;
+    font-style: italic;
+    color: #777;
+    font-family: bitter,sans-serif;
+}
+.description{
+    margin-bottom: 20px;
+    position: relative;
+    line-height: 1.7em;
+    margin: 0 0 10px;
+    overflow-wrap: break-word;
+}
+.button{
+    width: 20%;
+    margin: 0 10px 10px 0;
+    padding: 11px 30px;
+    position: relative;
+    padding: 12px 26px;
+    background-color: #71b100;
+    border: 2px solid #71b100;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+.button:hover{
+    background-color: #fff;
+    color: #71b100;
+    font-weight: 500;
+}
+strong{
+    color: #71b100;
+    font-weight: 700;
+}
+.info-column{
+    width: 40%;
+    height: auto;
+    display: grid;
+    padding: 0 5%;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+}
+.inner-info-box{
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 5px #ccc;
+    border-radius: 5%;
+    text-align: center;
+    padding: 10% 0;
+}
+.inner-info-box:hover{
+    box-shadow: 0 0 5px black;
+}
+.inner-info-box .info-text{
+    font-weight: bold;
+    color: black;
+}
+.inner-info-box .icon-box{
+    width: 30px;
+    margin: 0 auto;
+    height: fit-content;
+}
+.icon-box .icon{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
