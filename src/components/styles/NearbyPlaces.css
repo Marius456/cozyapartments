@@ -1,0 +1,47 @@
+.places-box{
+    width: 100%;
+    height: auto;
+    padding: 5% 10%;
+    display: flex;
+}
+.places-box .image-box{
+    width: 40%;
+    height: auto;
+}
+.image-box .image{
+    width: 100%;
+    object-fit: contain;    
+}
+.places-box .about-box{
+    width: 30%;
+    height: auto;
+    margin-left: 5%;
+}
+.about-box .subtitle{
+    font-size: 15px;
+    font-style: italic;
+    color: #777;
+    font-family: bitter,sans-serif;
+}
+.about-box .description{
+    margin-bottom: 20px;
+    position: relative;
+    line-height: 1.7em;
+    margin: 0 0 10px;
+    overflow-wrap: break-word;
+    font-size: medium;
+}
+.about-box .location-block-group{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.location-block-group .location-block{
+    width: auto;
+    height: auto;
+    margin-right: 5%;
+}
+.location-block-group .location-block h4{
+    font-weight: bold;
+    color: black;
+}

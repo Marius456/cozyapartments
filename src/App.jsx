@@ -1,6 +1,7 @@
 import { About } from "./components/About"
 import { Gallery } from "./components/Gallery"
 import { Navbar } from "./components/Navbar"
+import { NearbyPlaces } from "./components/NearbyPlaces"
 
 function App() {
 
@@ -9,6 +10,8 @@ function App() {
       <Navbar />
       <Gallery />
       <About/>
+      <Banner/>
+      <NearbyPlaces/>
     </>
   )
 }
