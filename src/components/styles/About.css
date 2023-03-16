@@ -50,7 +50,7 @@ strong{
 }
 .info-column{
     width: 40%;
-    height: auto;
+    height: fit-content;
     display: grid;
     padding: 0 5%;
     grid-template-columns: 50% 50%;
@@ -58,7 +58,7 @@ strong{
 }
 .inner-info-box{
     width: 100%;
-    height: auto;
+    height: fit-content;
     box-shadow: 0 0 5px #ccc;
     border-radius: 5%;
     text-align: center;
