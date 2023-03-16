@@ -1,6 +1,7 @@
 import { About } from "./components/About"
 import { Gallery } from "./components/Gallery"
 import { Navbar } from "./components/Navbar"
+import { Banner } from "./components/Banner"
 import { NearbyPlaces } from "./components/NearbyPlaces"
 
 function App() {
