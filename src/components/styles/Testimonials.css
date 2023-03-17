@@ -1,0 +1,27 @@
+.testimonials-box{
+    width: 100%;
+    height: auto;
+    background-color: #1f2d35;
+    color: white;
+    text-align: center;
+    padding: 10% 0;
+}
+.testimonials-box .subtitle{
+    font-size: 15px;
+    color: white;
+    font-style: italic;
+    font-family: bitter,sans-serif;
+}
+.testimonial-group{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+}
+.testimonial{
+    width: 20%;
+    height: auto;
+    color: black;
+    background-color: white;
+    margin: 0 10px;
+}

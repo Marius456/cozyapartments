@@ -3,6 +3,7 @@ import { Banner } from "./components/Banner"
 import { Gallery } from "./components/Gallery"
 import { Navbar } from "./components/Navbar"
 import { NearbyPlaces } from "./components/NearbyPlaces"
+import { Testimonials } from "./components/Testimonials"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <About/>
       <Banner/>
       <NearbyPlaces/>
+      <Testimonials/>
     </>
   )
 }
