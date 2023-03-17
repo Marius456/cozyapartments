@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Jeniffer Lawrence",
+        "imgUrl": "https://cozyapartments.lt/wp-content/uploads/2020/02/ccc.jpg",
+        "title": "Students",
+        "text": "A few my coursemates live here as well. There are a lot of foreigner students in the building."
+    },
+    {
+        "name": "Rick Grimes",
+        "imgUrl": "https://cozyapartments.lt/wp-content/uploads/2020/03/Rick-Grimes.jpg",
+        "title": "Management",
+        "text": "Renting issues are solved efficiently, communication is superb. Thank you!"
+    },
+    {
+        "name": "Nils Dahlberg",
+        "imgUrl": "https://cozyapartments.lt/wp-content/uploads/2020/03/Nils-Dahlberg.jpg",
+        "title": "Apartment",
+        "text": "Not large, but very cool apartment for student. All needed furniture, equipment and fast internet is here!"
+    },
+    {
+        "name": "Zhang Xiu Ying",
+        "imgUrl": "https://cozyapartments.lt/wp-content/uploads/2019/03/Zhang-Xiu-Ying.jpg",
+        "title": "Price",
+        "text": "The quality/price ratio for apartment in this location is probably unbeatable here in Kaunas."
+    },
+    {
+        "name": "Amanda Nilsson",
+        "imgUrl": "https://cozyapartments.lt/wp-content/uploads/2019/10/Amanda-Nilsson.jpg",
+        "title": "Perfect location",
+        "text": "The location is perfect for me, LSMU student. Cross the street, and you are in your classroom… 🙂"
+    }
+]
