@@ -25,3 +25,10 @@
     background-color: white;
     margin: 0 10px;
 }
+.author{
+    display: flex;
+    padding: 1em 2em;
+}
+.author .author-name{
+    line-height: 100%;
+}
