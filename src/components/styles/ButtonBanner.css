@@ -1,0 +1,31 @@
+.banner{
+    background-color: #1e2f38;
+    color: gray;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.banner .banner-button{
+    width: fit-content;
+    height: auto;
+    box-shadow: 0 0 1px #ccc;
+    display: flex;
+}
+.banner .banner-button:hover{
+    color: white;
+}
+.banner-button .icon-box{
+    width: 30px;
+    height: fit-content;
+    padding: 0 10px;
+}
+.icon-box .icon{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.banner-button .text-box{
+    width: fit-content;
+    height: 100%;
+}
