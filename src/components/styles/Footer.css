@@ -1,0 +1,17 @@
+.footer-box{
+    background-color: #1a2a32;
+    width: 100%;
+    height: auto;
+    padding: 5% 0;
+}
+
+.footer-box .logo-box{
+    min-width: 267px;
+    margin: 0 auto;
+}
+.footer-box .subtitle{
+    font-size: 15px;
+    color: #fff;
+    font-family: bitter,sans-serif;
+    text-align: center;
+}
